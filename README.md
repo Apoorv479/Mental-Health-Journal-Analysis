@@ -23,7 +23,7 @@ This project transforms raw journal entries into meaningful emotional insights t
 ---
 
 ## AI Pipeline
-
+```text 
 User Journal Entry
 ↓
 Emotion Detection (DistilRoBERTa)
@@ -39,7 +39,7 @@ Summary Generation
 Personalized Guidance
 ↓
 Weekly Insights
-
+```
 ---
 
 ## Repository Structure
