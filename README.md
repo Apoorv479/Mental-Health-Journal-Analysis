@@ -168,10 +168,10 @@ The emotion detection model is trained using the GoEmotions dataset developed by
 - 27 emotions + Neutral
 - Human-annotated labels
 
-Examples of supported emotions:
+### Examples of supported emotions:
 
- admiration,
-amusement,
+ - admiration,
+   amusement,
 anger,
 annoyance, approval,
 caring,
